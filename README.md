@@ -1,6 +1,7 @@
 # ETLPythonSantanderDevW2023
 
-Construís um pipeline ETL eficaz, começando com a simples extração de IDs de usuários de uma planilha, 
+Construí um pipeline ETL seguindo o curso, 
 Era para seguir com a IA do GPT-4 da OpenAI para transformar os dados com noticias para os usuários e carregar no atributo news de cada usuário
-mas como a licença do chatgpt é paga adapteri para o IA do Google Bard.
+mas como a licença do chatgpt é paga adaptei para usar o IA do Google Bard e como ainda não domino oresponse body da api trunquei a mensagem de resposta
+de cada usuário para que fosse possível carregar no atributo news e assim encerrar o desafio.
 
